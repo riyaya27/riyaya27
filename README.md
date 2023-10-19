@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills via GitHub<br>🌱 I’m currently learning C, Python, MySQL<br>💬 wandering always<br>⚡ my hands are on my keyboard to create new ideas
+🔭 I’m currently working on my skills via GitHub<br>🌱 I’m currently into C, Python, MySQL<br>💬 wandering always<br>⚡ my hands are on my keyboard to create new ideas
 
 
 # 💻 Tech Stack:
